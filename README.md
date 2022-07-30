@@ -1,4 +1,6 @@
-# NLPCC 2022 Task 5 Track 1
+# Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification
+
+*Code for NLPCC2022 Task5 Track1 "Multi-label Classification Model for English Scientific Literature".*
 
 Multi-label Classification Model for English Scientific Literature: develop a multi-label classification model for scientific research literature based on the given metadata (title and abstract) of scientific research literature and corresponding hierarchical labels in a specific domain.
 
