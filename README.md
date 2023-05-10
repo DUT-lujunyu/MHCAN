@@ -53,3 +53,16 @@ Author: Lu Junyu, Zhang hao
 Date: 2022-04-19 15:26:12
 LastEditors: Lu Junyu
 LastEditTime: 2022-07-29 15:26:12\
+
+## Cite
+~~~
+@inproceedings{lu2022multi,
+  title={Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification},
+  author={Lu, Junyu and Zhang, Hao and Shen, Zhexu and Shi, Kaiyuan and Yang, Liang and Xu, Bo and Zhang, Shaowu and Lin, Hongfei},
+  booktitle={Natural Language Processing and Chinese Computing: 11th CCF International Conference, NLPCC 2022, Guilin, China, September 24--25, 2022, Proceedings, Part II},
+  pages={156--167},
+  year={2022},
+  organization={Springer}
+}
+~~~
+
